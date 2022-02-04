@@ -15,6 +15,7 @@
 # Screenshots
 <p>
   <img src="screenshots/home.png" width="280"/>
+  <img src="screenshots/location-unavailable.png" width="280"/>
 </p>
 
 # Download 
