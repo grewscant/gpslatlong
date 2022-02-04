@@ -19,7 +19,7 @@
 
 # Download 
 
-<a href="https://github.com/grewscant/gpslatlong/raw/main/app/release/app-release.apk">Click here to download!</a>
+<a href="https://github.com/grewscant/gpslatlong/raw/master/app/release/app-release.apk">Click here to download the APK!</a>
 
 
 
