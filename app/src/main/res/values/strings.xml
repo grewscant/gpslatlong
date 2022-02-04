@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">GPS LatLong</string>
+    <string name="latitude_label"><b>Latitude:</b> %f</string>
+    <string name="longitude_label"><b>Longitude:</b> %f</string>
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="app_description">This application uses the FusedLocation API to retrieve the user\'s last received location. The Latitude and Longitude are displayed below.</string>
+    <string name="app_creator_credits">Made with 💖 by Danyl, Mathew, Gandharv &amp; Rachael</string>
+    <string name="permission_denied_explanation">
+        Permission was denied, but is needed for core functionality.
+    </string>
+    <string name="permission_rationale">
+        Location permission is needed to help determine your location, which is the sole functionality of this application.
+    </string>
+    <string name="settings">Settings</string>
+</resources>
